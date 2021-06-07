@@ -1,0 +1,47 @@
+body{
+  background-color: #5A6E73;
+  
+  
+}
+#começoDaPag{
+  font-family: sans-serif, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
+}
+.sobreOAutor{
+  font-family: Georgia, 'Times New Roman', Times, serif;;
+  display: inline;
+  position: absolute;
+  margin-top: 25px; 
+  margin-left: 30px;
+}
+.p{
+  font-size: 25px;
+}
+.Agil{
+  font-size: 35px;
+}
+.Comp{
+  font-size: 30px;
+}
+.Dinamic{
+  font-size: 25px;
+}
+.Esforc{
+  font-size: 20px;
+}
+#imageContainer{
+  height: 300px;
+}
+#divGeral{
+  height: 400px;
+  position: relative;
+}
+
+#eu{
+  float: left;
+}
+#minhaFoto{
+  float: left;
+  padding: 10px;
+  background-color: blueviolet;
+}
