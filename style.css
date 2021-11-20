@@ -1,7 +1,14 @@
 body{
-  background-color: #5A6E73;
+  background-color: #0093E9;
+background-image: linear-gradient(160deg, #0093E9 13%, #80D0C7 39%, #dedede 100%);
+  height: 100vh;
   
   
+}
+a {
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
 }
 #começoDaPag{
   font-family: sans-serif, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
